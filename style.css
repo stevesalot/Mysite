@@ -85,7 +85,7 @@ header .profile-image:hover {
   display: table;
   margin: 10px auto;
 } 
-.tag: hover {
+.tag:hover {
   border-color: #ff9904;
 }
 
@@ -234,16 +234,16 @@ a.social:hover {
 }
 
 .contact-info li.phone a {
-  background-image: url('../images/phone.png');
+  background-image: url('./images/phone.png');
 }
 .contact-info li.mail a {
-  background-image: url('../images/mail.png');
+  background-image: url('./images/mail.png');
 }
  .contact-info li.facebook a {
-  background-image: url('../images/facebook.png');
+  background-image: url('./images/facebook.png');
 }
  .contact-info li.twitter a {
-  background-image: url('../images/twitter.png');
+  background-image: url('./images/twitter.png');
 }
 ul {
   list-style: none;
